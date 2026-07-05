@@ -4,6 +4,6 @@ I'm *3Say*, a new developer that loves building fun programs, resolving issues a
 
 ### Active Projects
 - [LuaPong](https://github.com/kegiro/LuaPong) : A recreation of the game Pong that I'm currently using to learn Lua and Löve2D.
-- [DBot Transpiler](https://github.com/kegiro/dbot-transpiler) : 
+- [DBot Transpiler](https://github.com/kegiro/dbot-transpiler) : A custom transpiler that converts .dbot domain-specific language into JavaScript code for Discord bots, built to explore compiler construction.
 
 ((╬◣﹏◢))
